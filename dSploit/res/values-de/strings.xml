@@ -37,8 +37,8 @@
     <string name="stop">Stopp</string>
     <string name="stopped_dots">Gestoppt &#8230;</string>
     <string name="starting_dots">Starten &#8230;</string>
-    <string name="max_length">Max Länge</string>
-    <string name="min_length">Min Länge</string>
+    <string name="max_length">Max. Länge</string>
+    <string name="min_length">Min. Länge</string>
     <string name="username">Benutzername</string>
     <string name="Charset">Zeichensatz</string>
     <string name="filter_desc">Einen eigenen Ersetzungsfilter eingeben, der eine einfache Stringersetzung oder reguläre Ausdrücke enthält.</string>
@@ -144,7 +144,7 @@
     <string name="vulnerability_finder_desc">Suche nach bekannten Schwachstellen für Dienste auf dem Ziel in der National Vulnerability Database.</string>
     <string name="inspector">Inspector</string>
     <string name="inspector_desc">Führe tiefere Erkennung des Zielbetriebssystems und den -diensten durch (langsamer als der Portscanner, aber genauer).</string>
-    <string name="login_cracker">Login Cracker</string>
+    <string name="login_cracker">Login-Cracker</string>
     <string name="login_cracker_desc">Ein sehr schneller Netzwerklogin-Cracker, der viele verschiedene Dienste unterstützt.</string>
     <string name="packet_forger">Paketfälscher</string>
     <string name="packet_forger_desc">Erzeuge und versende ein angepasstes TCP- oder UDP-Paket an das Ziel.</string>
@@ -230,9 +230,9 @@
     <string name="error_mitm_https_redirector">Kann den HTTPS-Umleiter nicht erstellen. Bitte Verbindung und Portverfügbarkeit überprüfen.</string>
     <string name="error_mitm_resource_server">Kann den Ressourcenserver nicht erstellen. Bitte Verbindung und Portverfügbarkeit überprüfen.</string>
 
-    <string name="menu_add">Add</string>
-    <string name="menu_scan">Scan</string>
+    <string name="menu_add">Hinzufügen</string>
+    <string name="menu_scan">Scannen</string>
     <string name="menu_wifi_scan">WiFi Scan</string>
-    <string name="menu_stop_msfrpcd">Stop msfrpcd</string>
+    <string name="menu_stop_msfrpcd">Stoppe msfrpcd</string>
 
 </resources>
